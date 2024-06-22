@@ -1,0 +1,141 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.div1{
+    width: 1200px;
+    margin: 0 auto;
+}
+.div-mini1{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 60px;
+    margin-top: 10px;
+}
+button{
+    color: white;
+    background: blue;
+    border: none;
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;    
+}
+.h1{
+    font-size: 3rem;
+}
+.p2{
+    font-size: 18px;
+}
+.p1{
+    font-size: 12px;
+    color: blue;
+}
+.btn{
+    color: blue;
+    background: rgb(218, 218, 218);
+    border: 2px;
+}
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.div2{
+    width: 1200px;
+    margin: 0 auto;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+.img1{
+    width: 600px;
+    height: 340px;
+}
+.div2{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.div3{
+    display: flex;
+    align-items: center;
+    gap: 150px;
+    padding-top: 150px;
+    padding-left: 115px;
+    width: 1200px;
+    margin: 0 auto;
+}
+.h1-2{
+    font-size: 3rem;
+}
+.img2{
+    width: 500px;
+    height: 300px;
+}
+.img3{
+    width: 150px;
+    height: 50px;
+}
+.div-mini4{
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.img4{
+    width: 300px;
+    height: 393px;
+}
+.div4{
+    padding-top: 200px;
+    padding-left: 10px;
+    width: 1200px;
+    margin: 0 auto;
+    align-items: center;
+}
+.div-mini5{
+    padding-left: 100px;
+}
+.div5{
+    background: #F4F4F4;
+    margin-top: 100px;
+    display: flex;
+    padding-left: 200px;
+    padding-top: 200px;
+    gap: 150px;
+    width: 1200px;
+    margin: 0 auto;
+    align-items: center;
+}
+.p5{
+    padding-top: 50px;
+}
+.p6{
+    padding-top: 50px;
+}
+.p7{
+    padding-top: 50px;
+}
+.p8{
+    padding-top: 50px;
+}
+.h1-3{
+    font-size: 3rem;
+}
+.p4{
+    font-size: 18px;
+}
+.p3{
+    font-size: 18px;
+}
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
